@@ -1,1 +1,1 @@
-# NoiseWatchFrontend
+# TinnitusFrontend
